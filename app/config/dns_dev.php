@@ -1,18 +1,18 @@
 <?php
 return array(
     'database' => array(
-        'host'     => 'localhost',
+        'host'     => '127.0.0.1',
         'database' => 'Biny',
-        'user'     => 'billge',
-        'password' => 'billge',
+        'user'     => 'root',
+        'password' => 'root',
         'encode' => 'utf8',
         'port' => 3306,
     ),
     'slaveDb' => array(
-        'host'     => 'localhost',
+        'host'     => '127.0.0.1',
         'database' => 'Biny',
-        'user'     => 'billge',
-        'password' => 'billge',
+        'user'     => 'root',
+        'password' => 'root',
         'encode' => 'utf8',
         'port' => 3306,
     ),
