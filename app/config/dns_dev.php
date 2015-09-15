@@ -16,6 +16,14 @@ return array(
         'encode' => 'utf8',
         'port' => 3306,
     ),
+    'testDb' => array(
+        'host'     => '127.0.0.1',
+        'database' => 'test',
+        'user'     => 'root',
+        'password' => 'root',
+        'encode' => 'utf8',
+        'port' => 3306,
+    ),
     'memcache' => array(
         'host' => 'localhost',
         'port' => 12121
