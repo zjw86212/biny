@@ -25,11 +25,11 @@ return array(
         'port' => 3306,
     ),
     'memcache' => array(
-        'host' => 'localhost',
+        'host' => '10.1.163.35',
         'port' => 12121
     ),
     'redis' => array(
-        'host' => 'localhost',
+        'host' => '127.0.0.1',
         'port' => 6379
     ),
 
