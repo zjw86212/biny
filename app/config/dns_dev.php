@@ -33,5 +33,6 @@ return array(
         'port' => 6379
     ),
 
-    'rootPath' => '@web@/'
+    'CDN_ROOT' => '@web@/',
+    'webRoot' => '@web@'
 );
